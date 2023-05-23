@@ -2,20 +2,16 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Hello Kitty animated 1",
-      "publisher": "@Mycute_stickers",
-      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/tray.png",
+      "name": "My Sweet Piano 1",
+      "publisher": "My Sweet Piano",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/tray_icon.png",
       "publisherEmail": "tekinmkmk@gmail.com",
       "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.kitty_stickers.lelou",
-      "publisher_website": "https://t.me/addstickers/HkityMycute_stickers",
+      "publisher_website": "https://t.me/addstickers/MySweetPianoPack",
       "privacy_policy_website": "https://imam.aesthwp.xyz/kittypp.html",
       "license_agreement_website": "https://twitter.com/HassooniApps",
-      "animated_sticker_pack": true,
+      "animated_sticker_pack": false,
       "stickers": [
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/0.webp",
-          "emojis": ["", ""]
-        },
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/1.webp",
           "emojis": ["", ""]
@@ -79,49 +75,21 @@
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/16.webp",
           "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/17.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/18.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/19.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/20.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/21.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/1/23.webp",
-          "emojis": ["", ""]
         }
       ]
     },
     {
       "identifier": "2",
-      "name": "Hello Kitty animated 2",
-      "publisher": "@nkplz ꒱",
-      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/tray.png",
+      "name": "My Sweet Piano 2",
+      "publisher": "My Sweet Piano",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/tray_icon.png",
       "publisherEmail": "tekinmkmk@gmail.com",
       "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.kitty_stickers.lelou",
-      "publisher_website": "https://t.me/addstickers/line_199828900_by_moe_sticker_bot",
+      "publisher_website": "https://t.me/addstickers/MySweetPianoPack",
       "privacy_policy_website": "https://imam.aesthwp.xyz/kittypp.html",
       "license_agreement_website": "https://twitter.com/HassooniApps",
-      "animated_sticker_pack": true,
+      "animated_sticker_pack": false,
       "stickers": [
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/0.webp",
-          "emojis": ["", ""]
-        },
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/1.webp",
           "emojis": ["", ""]
@@ -185,53 +153,21 @@
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/16.webp",
           "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/17.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/18.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/19.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/20.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/21.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/22.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/2/23.webp",
-          "emojis": ["", ""]
         }
       ]
     },
     {
       "identifier": "3",
-      "name": "Hello Kitty 1",
-      "publisher": "@StikerDi",
-      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/tray.png",
+      "name": "My Sweet Piano 3",
+      "publisher": "My Sweet Piano",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/tray_icon.png",
       "publisherEmail": "tekinmkmk@gmail.com",
       "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.kitty_stickers.lelou",
-      "publisher_website": "https://t.me/addstickers/Hellokittist",
+      "publisher_website": "https://t.me/addstickers/MySweetPianoPack",
       "privacy_policy_website": "https://imam.aesthwp.xyz/kittypp.html",
       "license_agreement_website": "https://twitter.com/HassooniApps",
       "animated_sticker_pack": false,
       "stickers": [
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/0.webp",
-          "emojis": ["", ""]
-        },
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/1.webp",
           "emojis": ["", ""]
@@ -295,57 +231,21 @@
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/16.webp",
           "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/17.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/18.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/19.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/20.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/21.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/22.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/23.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/3/24.webp",
-          "emojis": ["", ""]
         }
       ]
     },
     {
       "identifier": "4",
-      "name": "Hello Kitty 2",
-      "publisher": "Hello Kitty",
-      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/tray.png",
+      "name": "My Sweet Piano 4",
+      "publisher": "My Sweet Piano",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/tray_icon.png",
       "publisherEmail": "tekinmkmk@gmail.com",
       "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.kitty_stickers.lelou",
-      "publisher_website": "https://t.me/addstickers/HelloKittyAnimatedStickers",
+      "publisher_website": "https://t.me/addstickers/MySweetPianoPack",
       "privacy_policy_website": "https://imam.aesthwp.xyz/kittypp.html",
       "license_agreement_website": "https://twitter.com/HassooniApps",
       "animated_sticker_pack": false,
       "stickers": [
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/0.webp",
-          "emojis": ["", ""]
-        },
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/1.webp",
           "emojis": ["", ""]
@@ -409,53 +309,21 @@
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/16.webp",
           "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/17.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/18.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/19.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/20.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/22.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/23.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/4/24.webp",
-          "emojis": ["", ""]
         }
       ]
     },
     {
       "identifier": "5",
-      "name": "Hello Kitty 3",
-      "publisher": "Hello Kitty",
-      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/tray.png",
+      "name": "My Sweet Piano 5",
+      "publisher": "My Sweet Piano",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/tray_icon.png",
       "publisherEmail": "tekinmkmk@gmail.com",
       "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.kitty_stickers.lelou",
-      "publisher_website": "https://t.me/addstickers/stickerly_I58PEL_by_stickerly_official_bot",
+      "publisher_website": "https://t.me/addstickers/MySweetPianoPack",
       "privacy_policy_website": "https://imam.aesthwp.xyz/kittypp.html",
       "license_agreement_website": "https://twitter.com/HassooniApps",
       "animated_sticker_pack": false,
       "stickers": [
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/0.webp",
-          "emojis": ["", ""]
-        },
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/1.webp",
           "emojis": ["", ""]
@@ -502,104 +370,6 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/12.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/13.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/14.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/15.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/16.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/17.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/5/18.webp",
-          "emojis": ["", ""]
-        }
-      ]
-    },
-    {
-      "identifier": "6",
-      "name": "Hello Kitty 4",
-      "publisher": "@StikerDi",
-      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/tray.png",
-      "publisherEmail": "tekinmkmk@gmail.com",
-      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.kitty_stickers.lelou",
-      "publisher_website": "https://t.me/addstickers/Kittiibear",
-      "privacy_policy_website": "https://imam.aesthwp.xyz/kittypp.html",
-      "license_agreement_website": "https://twitter.com/HassooniApps",
-      "animated_sticker_pack": false,
-      "stickers": [
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/0.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/1.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/2.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/3.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/4.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/5.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/6.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/7.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/8.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/9.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/10.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/11.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/12.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/13.webp",
-          "emojis": ["", ""]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/hosting/main/6/14.webp",
           "emojis": ["", ""]
         }
       ]
